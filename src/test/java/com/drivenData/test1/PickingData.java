@@ -29,7 +29,7 @@ public class PickingData {
 				
 				System.out.print("    "+value);
 			}
-			System.out.println();
+			System.out.println("hello");
 		}
 		
 		
